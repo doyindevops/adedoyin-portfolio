@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Monitoring Stack with Prometheus & Grafana",
+    "repo": "https://github.com/doyindevops/Monitoring-Stack-with-Prometheus-Grafana",
+    "description": "Builds a robust monitoring stack on AWS EKS using Prometheus, Grafana, kube-state-metrics, node-exporter, and CloudWatch. Focuses on real-world observability and cost-aware production setups.",
+    "tech": [
+      "AWS",
+      "EKS",
+      "Prometheus",
+      "Grafana",
+      "CloudWatch",
+      "Alertmanager"
+    ]
+  },
+  {
+    "title": "Fintech Payments Simulation",
+    "repo": "https://github.com/doyindevops/fintech-payments-sim-2024",
+    "description": "A serverless payments API on AWS with full CI/CD, monitoring, and shift-left security. Built using real infrastructure-as-code and GitHub Actions.",
+    "tech": [
+      "AWS",
+      "Lambda",
+      "API Gateway",
+      "DynamoDB",
+      "SAM",
+      "CI/CD"
+    ]
+  },
+  {
+    "title": "BoostPoint WordPress Infrastructure",
+    "repo": "https://github.com/doyindevops/boostpoint-wordpress-aws",
+    "description": "A highly available, modular WordPress deployment on AWS using Terraform. Built with DevOps best practices and walkthrough videos.",
+    "tech": [
+      "Terraform",
+      "AWS",
+      "EC2",
+      "RDS",
+      "ALB"
+    ]
+  },
+  {
+    "title": "Logistics Tracking Platform",
+    "repo": "https://github.com/doyindevops/logistics-tracking-platform",
+    "description": "End-to-end tracking system using AWS Lambda, API Gateway, and Terraform. Features CI/CD with GitHub Actions and monitoring via Grafana.",
+    "tech": [
+      "AWS",
+      "Lambda",
+      "API Gateway",
+      "Terraform",
+      "Grafana",
+      "CI/CD"
+    ]
+  },
+  {
+    "title": "Secure Banking CI/CD Pipeline",
+    "repo": "https://github.com/doyindevops/secure-banking-cicd",
+    "description": "A secure CI/CD pipeline using GitHub Actions, AWS Fargate, and OWASP tools. Tailored for high-security industries like finance.",
+    "tech": [
+      "CI/CD",
+      "GitHub Actions",
+      "Fargate",
+      "OWASP ZAP",
+      "SonarCloud"
+    ]
+  },
+  {
+    "title": "FortiStack Secure Cloud-Native CI/CD",
+    "repo": "https://github.com/doyindevops/fortistack-secure-cicd",
+    "description": "A complete DevSecOps pipeline from scratch with Terraform, Docker, EKS, and GitHub Actions. Focuses on secure Kubernetes deployments.",
+    "tech": [
+      "Terraform",
+      "Docker",
+      "GitHub Actions",
+      "EKS",
+      "Security"
+    ]
+  }
+]
