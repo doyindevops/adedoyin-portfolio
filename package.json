@@ -1,7 +1,7 @@
 {
   "name": "adedoyin-portfolio",
   "version": "1.0.0",
-  "description": "Personal Portfolio Website for Adedoyin Ekong",
+  "description": "Personal portfolio for Adedoyin Ekong",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,6 +12,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^5.4.19"
+    "vite": "^5.0.0"
   }
 }
